@@ -79,9 +79,9 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 508526761E52FDC000D611F4 /* Build configuration list for PBXNativeTarget "MKRingProgressView" */;
 			buildPhases = (
+				5085266B1E52FDC000D611F4 /* Headers */,
 				508526691E52FDC000D611F4 /* Sources */,
 				5085266A1E52FDC000D611F4 /* Frameworks */,
-				5085266B1E52FDC000D611F4 /* Headers */,
 				5085266C1E52FDC000D611F4 /* Resources */,
 			);
 			buildRules = (
